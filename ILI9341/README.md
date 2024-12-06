@@ -5,5 +5,5 @@
 
 
 ## Changelog
-- v1: A working code that you can try for yourself.
+- v1_0: A working code that you can try for yourself.
   This code is the core functions of the display, with the addition of writing black color to the display to check if it works.
